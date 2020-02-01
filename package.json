@@ -1,6 +1,6 @@
 {
     "name": "tiny-png-zx",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "No apikey is required for image compression in tinypng",
     "main": "index.js",
     "dependencies": {},
@@ -10,6 +10,10 @@
     "devDependencies": {},
     "author": "zhouxin",
     "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zzhoouxin/tiny-png"
+    },
     "keywords": [
         "png",
         "compress",
