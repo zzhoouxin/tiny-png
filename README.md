@@ -18,7 +18,6 @@ Options:
   -p, --part      Processing of specified files,use: tinypng -p  [image.png|*.png|*.jpeg|*.jpg]
   -h, --help         This message.
   -v, --version      Show version.
-`;
 ```
 
 ## License
