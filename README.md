@@ -2,7 +2,7 @@
 
 
 
-Compress PNG with TinyPNG  in terminal.There is no need to configure the API
+Compress PNG with TinyPNG  in terminal.There is no need to configure the API.But the key needs to be set when the image is in high concurrency
 
 ## Installation
 
