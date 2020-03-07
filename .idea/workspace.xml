@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a0a976a-d775-4a02-9df9-de813bf7f06d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tiny-png.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/color-name/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/color-name/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/color-name/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/color-name/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/source/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/source/templates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/source/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/conversions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/color-name/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/color-name/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/color-name/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/color-name/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YoDMYqPC1RobJmGIFoBDBjlYG4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a0a976a-d775-4a02-9df9-de813bf7f06d" name="Default Changelist" comment="" />
+      <created>1583600006000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583600006000</updated>
+      <workItem from="1583600010075" duration="5417000" />
+    </task>
+    <task id="LOCAL-00001" summary="[支持all]">
+      <created>1583605463917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583605463917</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[支持all]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[支持all]" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1583605712818">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1583605712818" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1583605465741">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583605465741" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583602939805">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.822@0.23.1440.822" timestamp="1583602939805" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1583602989597">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1583602989597" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1583604480776">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1583604480776" />
+  </component>
+</project>

@@ -144,7 +144,6 @@ function fileFilter(file, isUseKey) {
  * @param {Address of picture}} img
  */
 function fileUpload(img) {
-    console.log("不使用key")
     var req = https.request(options, function (res) {
         res.on('data', buf => {
             let obj = JSON.parse(buf.toString());
@@ -337,6 +336,7 @@ Usage: tinypng [options]
 Options:
   -k, --api-key      \tSet default TinyPNG API key.
   -a, --all      \tModify all images under the file.
+  -c, --current  \tCurrent level directory
   -p, --part     \tProcessing of specified files,use: tinypng -p  [image.png|*.png|*.jpeg|*.jpg]
   -h, --help         \tThis message.
   -v, --version      \tShow version.
